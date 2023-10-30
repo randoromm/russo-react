@@ -26,7 +26,7 @@ const greeting = {
     "A passionate DevOps and Site Realiability Engineer 🚀 having an experience as Site Realiability Engineer, DevOps, Senior Service Manager and Full Stack Developer"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1r2HxJBDw2Bn1ufWmWy398u4ZOpqMynw0/view?usp=drivesdk", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -36,10 +36,11 @@ const socialMediaLinks = {
   github: "https://github.com/randoromm",
   linkedin: "https://www.linkedin.com/in/randorommot/",
   gmail: "r.rommot@gmail.com",
-  gitlab: "https://gitlab.com/randoromm",
+  // gitlab: "https://gitlab.com/randoromm",
   facebook: "https://www.facebook.com/rando.rommot",
-  medium: "https://medium.com/@r.rommot",
-  stackoverflow: "https://stackoverflow.com/users/10422806/rando-rommot",
+  instagram: "https://www.instagram.com/randorrrr",
+  //medium: "https://medium.com/@r.rommot",
+  // stackoverflow: "https://stackoverflow.com/users/10422806/rando-rommot",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
