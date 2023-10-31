@@ -177,7 +177,7 @@ const techStack = {
     },
     {
       Stack: "Software Development (Spring Framework, .NET Framework, Python, React, Angular)",
-      progressPercentage: "60%"
+      progressPercentage: "50%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
