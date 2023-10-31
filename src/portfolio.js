@@ -193,7 +193,7 @@ const workExperiences = {
       company: "Eesti Energia",
       companylogo: require("./assets/images/eestiEnergiaLogo.png"),
       date: "June 2023 – Present",
-      desc: "Energy Trading Risk Management and Physical Electricity Trading",
+      desc: "Energy Trading Risk Management, Physical Electricity Trading, Flexible Services, e-Mobility",
       descBullets: [
         "SLA/SLI/SLO creation, management and monitoring",
         "Incident management",
