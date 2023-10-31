@@ -404,7 +404,7 @@ const contactInfo = {
   email_address: "r.rommot@gmail.com"
 };
 
-// Twitter Section
+// Twitter Section yes
 
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
