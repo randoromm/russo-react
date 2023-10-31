@@ -23,7 +23,7 @@ const greeting = {
   username: "Rando Rommot",
   title: "Hi all, I'm Rando",
   subTitle: emoji(
-    "A passionate DevOps and Site Realiability Engineer 🚀 having an experience as Site Realiability Engineer, DevOps, Senior Service Manager and Full Stack Developer"
+    "A passionate DevOps and Site Realiability Engineer 🚀 having an experience also as Senior Service Manager, Full Stack Developer, Project Manager and Soft-Skills Trainer"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1r2HxJBDw2Bn1ufWmWy398u4ZOpqMynw0/view?usp=drivesdk", // Set to empty to hide the button
@@ -53,11 +53,23 @@ const skillsSection = {
   subTitle: "CRAZY DEVOPS WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Any migrations, builds or configurations you can imagine!"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ SLA/SLI/SLO creation, management and monitoring"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Incident management, ITIL processes and change management"
+    ),
+    emoji(
+      "⚡ Integration of third party services such as Azure, AWS, Digital Ocean, Linode"
+    ),
+    emoji(
+      "⚡ IaaS, PaaS, SaaS cloud solutions!"
+    ),
+    emoji(
+      "⚡ Basic full-stack development"
+    ),
+    emoji(
+      "⚡ Machine Learning & Neural Networks"
     )
   ],
 
@@ -90,8 +102,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "java",
+      fontAwesomeClassname: "fab fa-java"
     },
     {
       skillName: "npm",
@@ -106,8 +118,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
+      skillName: "azure",
+      fontAwesomeClassname: "fas fa-microsoft"
     },
     {
       skillName: "python",
@@ -131,10 +143,10 @@ const educationInfo = {
       logo: require("./assets/images/taltechLogo.png"),
       subHeader: "Information Systems Development",
       duration: "September 2016 - April 2020",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Also member of Board of European Students of Technology (BEST)",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Practical & theoretical software development knowledge",
+        "Project manager of largest career day in Estonia: 'Võti Tulevikku 2019'"
       ]
     },
     {
@@ -142,8 +154,8 @@ const educationInfo = {
       logo: require("./assets/images/keilakoolLogo.png"),
       subHeader: "High School",
       duration: "September 2012 - April 2015",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      desc: "Specialization in natural sciences",
+      descBullets: [""]
     }
   ]
 };
@@ -179,10 +191,14 @@ const workExperiences = {
       company: "Eesti Energia",
       companylogo: require("./assets/images/eestiEnergiaLogo.png"),
       date: "June 2023 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Energy Trading Risk Management and Physical Electricity Trading",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "SLA/SLI/SLO creation, management and monitoring",
+        "Incident management",
+        "Automation and CI/CD pipelines",
+        "Kubernetes configurations and deployments",
+        "Cloud - Terraform",
+        "Design and architecture of new projects"
       ]
     },
     {
@@ -190,14 +206,14 @@ const workExperiences = {
       company: "Riverty",
       companylogo: require("./assets/images/rivertyLogo.png"),
       date: "Oct 2021 – June 2023",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Senior Service Management for largest Credit Risk system of DACH region (Solaris, InformixDB, BASH)"
     },
     {
-      role: "Software Engineer",
+      role: "Software Engineer & Team Lead",
       company: "Aktors",
       companylogo: require("./assets/images/aktorsLogo.png"),
       date: "May 2019 – Oct 2021",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Leading a team of young java developers to develop a similar SWIFT payments API to Estonian Bank API."
     }
   ]
 };
@@ -363,9 +379,9 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+    "Discuss a project or just want to say hi? My Inbox is open for all and i'm always ready for coffee talks!",
+  number: "+372 53038981",
+  email_address: "r.rommot@gmail.com"
 };
 
 // Twitter Section
