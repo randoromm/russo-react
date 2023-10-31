@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  portfolio:
+    build: ./
+    container_name: russo-react_c
+    ports: 
+      - "3000:3000"
+    #volumes:
+    #  - ./:/app
+    #  - ./app/node_modules
+    stdin_open: true # Interactive mode for react to work
+    tty: true # Interactive mode for react to work
