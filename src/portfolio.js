@@ -60,7 +60,10 @@ const skillsSection = {
       "⚡ Incident management, ITIL processes and change management"
     ),
     emoji(
-      "⚡ Integration of third party services such as Azure, AWS, Digital Ocean, Linode"
+      "⚡ CI/CD processes and automation"
+    ),
+    emoji(
+      "⚡ Integration of third party services"
     ),
     emoji(
       "⚡ IaaS, PaaS, SaaS cloud solutions!"
