@@ -200,7 +200,9 @@ const workExperiences = {
         "Automation and CI/CD pipelines",
         "Kubernetes configurations and deployments",
         "Cloud - Terraform",
-        "Design and architecture of new projects"
+        "Design and architecture of new projects",
+        "Kubernetes (Rancher), Grafana, Prometheus/Thanos, Nexus, Jenkins",
+        "Terraform (Azure), Kibana/ElasticSearch, Kafka, Powershell, AD Management"
       ]
     },
     {
