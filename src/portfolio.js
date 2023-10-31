@@ -119,7 +119,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "azure",
-      fontAwesomeClassname: "fas fa-microsoft"
+      fontAwesomeClassname: "fab fa-microsoft"
     },
     {
       skillName: "python",
