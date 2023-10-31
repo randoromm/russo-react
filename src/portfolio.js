@@ -157,8 +157,7 @@ const educationInfo = {
       logo: require("./assets/images/keilakoolLogo.png"),
       subHeader: "High School",
       duration: "September 2012 - April 2015",
-      desc: "Specialization in natural sciences",
-      descBullets: [""]
+      desc: "Specialization in natural sciences"
     }
   ]
 };
