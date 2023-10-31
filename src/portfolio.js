@@ -201,7 +201,7 @@ const workExperiences = {
         "Kubernetes configurations and deployments",
         "Cloud - Terraform",
         "Design and architecture of new projects",
-        "Kubernetes (Rancher), Grafana, Prometheus/Thanos, Nexus, Jenkins",
+        "Kubernetes (Rancher), Grafana, Prometheus/Thanos, Nexus, Jenkins, Kong",
         "Terraform (Azure), Kibana/ElasticSearch, Kafka, Powershell, AD Management"
       ]
     },
