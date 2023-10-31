@@ -209,14 +209,32 @@ const workExperiences = {
       company: "Riverty",
       companylogo: require("./assets/images/rivertyLogo.png"),
       date: "Oct 2021 – June 2023",
-      desc: "Senior Service Management for largest Credit Risk system of DACH region (Solaris, InformixDB, BASH)"
+      desc: "Senior Service Management for largest Credit Risk system of DACH region",
+      descBullets: [
+        "SLA management and monitoring",
+        "Incident management",
+        "Second level support",
+        "ITIL Processes and Change Management",
+        "Monitoring and management of WAF - Web Application Firewall",
+        "Automation & scripting (BASH, Solaris, InformixDB, StreamWorks)",
+        "SQL (MSSQL, InformixDB, PostgreSQL)"
+      ]
     },
     {
       role: "Software Engineer & Team Lead",
       company: "Aktors",
       companylogo: require("./assets/images/aktorsLogo.png"),
       date: "May 2019 – Oct 2021",
-      desc: "Leading a team of young java developers to develop a similar SWIFT payments API to Estonian Bank API."
+      desc: "Financial Systems Department",
+      descBullets: [
+        "Full-stack java development with Spring Boot",
+        "Service Management of estonian rural savings and loan cooperative",
+        "Linux, Tomcat, OracleDB",
+        "Software Analysis",
+        "Leading a summer internship program of Aktors",
+        "Leading a team of young developers for a modern SWIFT API project for foreign countries.",
+        "React, Java, Docker, CentOS Linux"
+      ]
     }
   ]
 };
