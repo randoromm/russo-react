@@ -12,6 +12,12 @@ export default function Footer() {
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
           {emoji("Rando Rommot⚡developerFolio")}
         </p>
+        <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
+          Github of this site @{" "}
+          <a href="https://github.com/randoromm/russo-react">
+            russo-react
+          </a>
+        </p>
       </div>
     </Fade>
   );
