@@ -168,11 +168,11 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Cloud & On-prem DevOps", //Insert stack or technology you have experience in
+      Stack: "DevOps (Cloud & On-prem)", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "SQL (MSSQL, Postgre, Oracle, MongoDB",
+      Stack: "SQL (MSSQL, Postgre, Oracle, Mongo)",
       progressPercentage: "70%"
     },
     {
