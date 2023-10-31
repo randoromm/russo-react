@@ -233,7 +233,7 @@ const workExperiences = {
         "Linux, Tomcat, OracleDB",
         "Software Analysis",
         "Leading a summer internship program of Aktors",
-        "Leading a team of young developers for a modern SWIFT API project for foreign countries.",
+        "Leading a team of young developers for a modern SWIFT Banking API project.",
         "React, Java, Docker, CentOS Linux"
       ]
     }
