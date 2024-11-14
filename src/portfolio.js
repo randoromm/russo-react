@@ -203,7 +203,7 @@ const workExperiences = {
         "Incident management",
         "Automation and CI/CD pipelines",
         "Kubernetes configurations and deployments",
-        "Azzure cloud - Terraform",
+        "Azure cloud - Terraform",
         "Design and architecture of new projects",
         "Kubernetes (Rancher), monitoring with Grafana and Prometheus/Thanos, package management with Nexus, CI/CD with Jenkins, API gateway with Kong",
         "Terraform (Azure), Kibana/ElasticSearch, Kafka, Powershell, AD Management",
