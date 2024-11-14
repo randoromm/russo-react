@@ -50,7 +50,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY DEVOPS WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "PASSIONATE DEVOPS WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
       "⚡ Any migrations, builds or configurations you can imagine!"
@@ -72,7 +72,7 @@ const skillsSection = {
       "⚡ Basic full-stack development"
     ),
     emoji(
-      "⚡ Machine Learning & Neural Networks"
+      "⚡ Basic Machine Learning & Neural Networks"
     )
   ],
 
