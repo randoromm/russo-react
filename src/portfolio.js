@@ -26,7 +26,7 @@ const greeting = {
     "A passionate DevOps and Site Reliability Engineer 🚀 having an experience also as Senior Service Manager, Full Stack Developer, Project Manager and Soft-Skills Trainer"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1m9o1ltQtEwnyr_8-bB8Jtsts_sGFc1fG/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/15tCjWGmGg3HHXj-3FpXv6MiAUa46FMMK/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
