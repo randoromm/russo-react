@@ -23,7 +23,7 @@ const greeting = {
   username: "Rando Rommot",
   title: "Hi all, I'm Rando",
   subTitle: emoji(
-    "A passionate DevOps and Site Realiability Engineer 🚀 having an experience also as Senior Service Manager, Full Stack Developer, Project Manager and Soft-Skills Trainer"
+    "A passionate DevOps and Site Reliability Engineer 🚀 having an experience also as Senior Service Manager, Full Stack Developer, Project Manager and Soft-Skills Trainer"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1r2HxJBDw2Bn1ufWmWy398u4ZOpqMynw0/view?usp=drivesdk", // Set to empty to hide the button
@@ -63,7 +63,7 @@ const skillsSection = {
       "⚡ CI/CD processes and automation"
     ),
     emoji(
-      "⚡ Integration of third party services"
+      "⚡ Integration of third-party services"
     ),
     emoji(
       "⚡ IaaS, PaaS, SaaS cloud solutions!"
@@ -72,7 +72,7 @@ const skillsSection = {
       "⚡ Basic full-stack development"
     ),
     emoji(
-      "⚡ Basic Machine Learning & Neural Networks"
+      "⚡ Basic machine learning & neural networks"
     )
   ],
 
@@ -105,7 +105,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "java",
+      skillName: "Java",
       fontAwesomeClassname: "fab fa-java"
     },
     {
@@ -148,8 +148,8 @@ const educationInfo = {
       duration: "September 2016 - April 2020",
       desc: "Also member of Board of European Students of Technology (BEST)",
       descBullets: [
-        "Practical & theoretical software development knowledge",
-        "Project manager of largest career day in Estonia: 'Võti Tulevikku 2019'"
+        "Practical and theoretical software development knowledge",
+        "Project Manager of the largest career day in Estonia: 'Võti Tulevikku 2019'"
       ]
     },
     {
@@ -172,11 +172,11 @@ const techStack = {
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "SQL (MSSQL, Postgre, Oracle, Mongo)",
+      Stack: "SQL (MSSQL, PostgreSQL, Oracle, MongoDB)",
       progressPercentage: "70%"
     },
     {
-      Stack: "Software Development (Spring Framework, .NET Framework, Python, React, Angular)",
+      Stack: "Software Development (Spring Framework, .NET Framework, Python, ReactJS, Angular)",
       progressPercentage: "50%"
     }
   ],
@@ -189,7 +189,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Site Reliablitiy Engineer",
+      role: "Site Reliabilitiy Engineer",
       company: "Eesti Energia",
       companylogo: require("./assets/images/eestiEnergiaLogo.png"),
       date: "June 2023 – Present",
@@ -199,10 +199,11 @@ const workExperiences = {
         "Incident management",
         "Automation and CI/CD pipelines",
         "Kubernetes configurations and deployments",
-        "Cloud - Terraform",
+        "Azzure cloud - Terraform",
         "Design and architecture of new projects",
-        "Kubernetes (Rancher), Grafana, Prometheus/Thanos, Nexus, Jenkins, Kong",
-        "Terraform (Azure), Kibana/ElasticSearch, Kafka, Powershell, AD Management"
+        "Kubernetes (Rancher), monitoring with Grafana and Prometheus/Thanos, package management with Nexus, CI/CD with Jenkins, API gateway with Kong",
+        "Terraform (Azure), Kibana/ElasticSearch, Kafka, Powershell, AD Management",
+        "Various DBA tasks on production"
       ]
     },
     {
@@ -217,7 +218,7 @@ const workExperiences = {
         "Second level support",
         "ITIL Processes and Change Management",
         "Monitoring and management of WAF - Web Application Firewall",
-        "Automation & scripting (BASH, Solaris, InformixDB, StreamWorks)",
+        "Automation & scripting (Bash, Solaris, InformixDB, StreamWorks)",
         "SQL (MSSQL, InformixDB, PostgreSQL)"
       ]
     },
@@ -228,8 +229,8 @@ const workExperiences = {
       date: "May 2019 – Oct 2021",
       desc: "Financial Systems Department",
       descBullets: [
-        "Full-stack java development with Spring Boot",
-        "Service Management of estonian rural savings and loan cooperative",
+        "Full-stack Java development with Spring Boot",
+        "Service Management of Estonian rural savings and loan cooperative",
         "Linux, Tomcat, OracleDB",
         "Software Analysis",
         "Leading a summer internship program of Aktors",
