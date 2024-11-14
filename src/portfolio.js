@@ -168,7 +168,7 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "DevOps (On-prem)", //Insert stack or technology you have experience in
+      Stack: "DevOps - On-prem", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
@@ -176,7 +176,7 @@ const techStack = {
       progressPercentage: "80%"
     },
     {
-      Stack: "DevOps - (Cloud)", //Insert stack or technology you have experience in
+      Stack: "DevOps - Cloud", //Insert stack or technology you have experience in
       progressPercentage: "75%" //Insert relative proficiency in percentage
     },
     {
